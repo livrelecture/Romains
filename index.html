@@ -1,28 +1,97 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lecteur Audio</title>
+    <title>Calme avec Dieu dans l'epître aux Romains - Lecteur Audio</title>
     <style>
-        body { font-family: sans-serif; text-align: center; padding: 40px; background: #fafafa; }
-        .player-card { background: white; padding: 20px; border-radius: 20px; shadow: 0 10px 30px rgba(0,0,0,0.1); max-width: 400px; margin: auto; }
-        audio { width: 100%; margin-top: 20px; }
+        /* Design */
+        body { 
+            font-family: 'Georgia', serif; /* Police plus littéraire et calme */
+            background-color: #f4f1ea; /* Couleur crème/papier pour le repos visuel */
+            color: #2c3e50; 
+            display: flex; 
+            flex-direction: column;
+            justify-content: center; 
+            align-items: center; 
+            min-height: 100vh; 
+            margin: 0; 
+            padding: 20px;
+        }
+        .player-card { 
+            background: white; 
+            padding: 35px; 
+            border-radius: 2px; /* Coins moins arrondis pour un aspect livre */
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05); 
+            width: 100%; 
+            max-width: 360px; 
+            text-align: center;
+            border: 1px solid #e0dcd0;
+        }
+        .cover-art { 
+            width: 100%; 
+            aspect-ratio: 1 / 1; 
+            margin-bottom: 25px; 
+            object-fit: cover;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .book-title {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #8e8e8e;
+            margin-bottom: 10px;
+        }
+        h2 { 
+            margin: 0 0 5px 0; 
+            font-size: 1.8rem; 
+            font-weight: normal;
+            font-style: italic;
+        }
+        .subtitle { 
+            color: #7f8c8d;
+            margin-bottom: 30px; 
+            font-size: 1rem; 
+        }
+        
+        /* Lecteur audio épuré */
+        audio { 
+            width: 100%; 
+            height: 40px;
+            opacity: 0.8;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.75rem;
+            color: #95a5a6;
+            letter-spacing: 1px;
+        }
     </style>
 </head>
 <body>
+
     <div class="player-card">
-        <h2 id="titre">Chargement...</h2>
-        <audio id="player" controls></audio>
+        <div class="book-title">Calme avec Dieu</div>
+        
+        <img src="cover.png" alt="Couverture : L'Épitre aux Romains" class="cover-art">
+        
+        <h2 id="titre">Jour 1</h2>
+        <div class="subtitle">dans l'Épître aux Romains</div>
+        
+        <audio id="player" controls controlsList="nodownload"></audio>
     </div>
 
+    <div class="footer">LECTURE AUDIO ACCOMPAGNÉE</div>
+
     <script>
-        // On récupère le numéro dans l'URL (ex: ?audio=12)
         const urlParams = new URLSearchParams(window.location.search);
         const audioNum = urlParams.get('audio') || '1';
+        const displayNum = parseInt(audioNum);
         
-        document.getElementById('titre').innerText = "Chapitre " + audioNum;
-        document.getElementById('player').src = "audio" + audioNum + ".mp3";
+        document.getElementById('titre').innerText = "Jour " + displayNum;
+        document.getElementById('player').src = "audio" + displayNum + ".mp3";
     </script>
+
 </body>
 </html>
