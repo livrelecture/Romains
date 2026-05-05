@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calme avec Dieu dans l'epître aux Romains - Lecteur Audio</title>
+    <title>Calme avec Dieu dans l'Épître aux Romains</title>
     <style>
-        /* Design */
+        /* Design serein et épuré */
         body { 
-            font-family: 'Georgia', serif; /* Police plus littéraire et calme */
-            background-color: #f4f1ea; /* Couleur crème/papier pour le repos visuel */
+            font-family: 'Georgia', serif; 
+            background-color: #f4f1ea; 
             color: #2c3e50; 
             display: flex; 
             flex-direction: column;
@@ -20,13 +20,21 @@
         }
         .player-card { 
             background: white; 
-            padding: 35px; 
-            border-radius: 2px; /* Coins moins arrondis pour un aspect livre */
-            box-shadow: 0 10px 30px rgba(0,0,0,0.05); 
+            padding: 30px; 
+            border-radius: 4px; 
+            box-shadow: 0 10px 40px rgba(0,0,0,0.08); 
             width: 100%; 
             max-width: 360px; 
             text-align: center;
             border: 1px solid #e0dcd0;
+        }
+        .book-title {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #7f8c8d;
+            margin-bottom: 20px;
+            line-height: 1.4;
         }
         .cover-art { 
             width: 100%; 
@@ -35,62 +43,65 @@
             object-fit: cover;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
-        .book-title {
-            font-size: 0.9rem;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            color: #8e8e8e;
-            margin-bottom: 10px;
-        }
         h2 { 
             margin: 0 0 5px 0; 
             font-size: 1.8rem; 
             font-weight: normal;
             font-style: italic;
+            color: #2c3e50;
         }
         .subtitle { 
-            color: #7f8c8d;
+            color: #95a5a6;
             margin-bottom: 30px; 
-            font-size: 1rem; 
+            font-size: 0.95rem; 
         }
         
-        /* Lecteur audio épuré */
+        /* Style du lecteur audio natif */
         audio { 
             width: 100%; 
             height: 40px;
-            opacity: 0.8;
+            opacity: 0.9;
         }
 
         .footer {
             margin-top: 40px;
-            font-size: 0.75rem;
-            color: #95a5a6;
-            letter-spacing: 1px;
+            font-size: 0.7rem;
+            color: #bdc3c7;
+            letter-spacing: 2px;
+            text-transform: uppercase;
         }
     </style>
 </head>
 <body>
 
     <div class="player-card">
-        <div class="book-title">Calme avec Dieu</div>
+        <!-- Titre complet du livre -->
+        <div class="book-title">Calme avec Dieu dans l'Épître aux Romains</div>
         
-        <img src="cover.png" alt="Couverture : L'Épitre aux Romains" class="cover-art">
+        <!-- Image de couverture (cover.png) -->
+        <img src="cover.png" alt="Couverture du livre" class="cover-art">
         
-        <h2 id="titre">Jour 1</h2>
-        <div class="subtitle">dans l'Épître aux Romains</div>
+        <!-- Jour dynamique (ex: Jour 1) -->
+        <h2 id="titre">Chargement...</h2>
+        <div class="subtitle">Méditation quotidienne</div>
         
+        <!-- Lecteur puisant dans le dossier /Audios -->
         <audio id="player" controls controlsList="nodownload"></audio>
     </div>
 
-    <div class="footer">LECTURE AUDIO ACCOMPAGNÉE</div>
+    <div class="footer">Espace de méditation audio</div>
 
     <script>
+        // Récupération du paramètre audio dans l'URL
         const urlParams = new URLSearchParams(window.location.search);
         const audioNum = urlParams.get('audio') || '1';
-        const displayNum = parseInt(audioNum);
         
-        document.getElementById('titre').innerText = "Jour " + displayNum;
-        document.getElementById('player').src = "audio" + displayNum + ".mp3";
+        // Mise à jour du texte "Jour X"
+        document.getElementById('titre').innerText = "Jour " + audioNum;
+        
+        // Chargement du fichier depuis le dossier Audios
+        const player = document.getElementById('player');
+        player.src = "Audios/audio" + audioNum + ".mp3";
     </script>
 
 </body>
