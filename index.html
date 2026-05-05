@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecteur Audio</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 40px; background: #fafafa; }
+        .player-card { background: white; padding: 20px; border-radius: 20px; shadow: 0 10px 30px rgba(0,0,0,0.1); max-width: 400px; margin: auto; }
+        audio { width: 100%; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="player-card">
+        <h2 id="titre">Chargement...</h2>
+        <audio id="player" controls></audio>
+    </div>
+
+    <script>
+        // On récupère le numéro dans l'URL (ex: ?audio=12)
+        const urlParams = new URLSearchParams(window.location.search);
+        const audioNum = urlParams.get('audio') || '1';
+        
+        document.getElementById('titre').innerText = "Chapitre " + audioNum;
+        document.getElementById('player').src = "audio" + audioNum + ".mp3";
+    </script>
+</body>
+</html>
