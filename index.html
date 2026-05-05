@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calme avec Dieu - Lecteur Audio</title>
     <style>
+        /* Style général inspiré d'un univers zen et littéraire */
         body { 
             font-family: 'Georgia', serif; 
-            background-color: #f4f1ea; 
+            background-color: #f4f1ea; /* Teinte crème apaisante */
             color: #2c3e50; 
             display: flex; 
             flex-direction: column;
@@ -16,48 +17,54 @@
             min-height: 100vh; 
             margin: 0; 
             padding: 20px;
+            box-sizing: border-box;
         }
+
         .player-card { 
             background: white; 
             padding: 30px; 
             border-radius: 4px; 
             box-shadow: 0 10px 30px rgba(0,0,0,0.05); 
             width: 100%; 
-            max-width: 400px; /* Légèrement plus large pour le lecteur */
+            max-width: 400px; 
             text-align: center;
             border: 1px solid #e0dcd0;
         }
-        .cover-art { 
-            width: 60%; /* Taille réduite de la couverture */
-            margin: 0 auto 25px auto; 
-            aspect-ratio: 1 / 1; 
-            object-fit: cover;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            display: block;
-        }
+
         .book-title {
             font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 2px;
             color: #8e8e8e;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
+
+        /* Image de couverture non tronquée */
+        .cover-art { 
+            width: 75%; /* Taille réduite pour l'élégance */
+            margin: 0 auto 25px auto; 
+            display: block;
+            object-fit: contain; /* Garde l'image ENTIÈRE */
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
         h2 { 
             margin: 0 0 5px 0; 
             font-size: 1.8rem; 
             font-weight: normal;
             font-style: italic;
         }
+
         .subtitle { 
             color: #7f8c8d;
             margin-bottom: 35px; 
             font-size: 1rem; 
         }
         
-        /* Lecteur audio agrandi */
+        /* Lecteur audio agrandi pour faciliter l'utilisation */
         audio { 
             width: 100%; 
-            height: 55px; /* Augmentation de la taille */
+            height: 55px;
             outline: none;
         }
 
@@ -66,15 +73,17 @@
             font-size: 0.7rem;
             color: #95a5a6;
             letter-spacing: 1px;
+            text-transform: uppercase;
         }
     </style>
 </head>
 <body>
 
     <div class="player-card">
-        <div class="book-title">Calme avec Dieu</div>
+        <div class="book-title">Calme avec Dieu dans l'epître aux Romains</div>
         
-        <img src="cover.png" alt="Couverture" class="cover-art">
+        <!-- Votre image cover.png à la racine du dépôt -->
+        <img src="cover.png" alt="Couverture du livre" class="cover-art">
         
         <h2 id="titre">Chargement...</h2>
         <div class="subtitle">Méditation dans l'Épître aux Romains</div>
@@ -82,25 +91,26 @@
         <audio id="player" controls controlsList="nodownload"></audio>
     </div>
 
-    <div class="footer">LECTURE AUDIO ACCOMPAGNÉE</div>
+    <div class="footer">Lecture Audio Accompagnée</div>
 
     <script>
+        // 1. Analyse de l'URL pour trouver le numéro ?audio=X
         const urlParams = new URLSearchParams(window.location.search);
-        const audioParam = urlParams.get('audio') || '0';
+        const audioParam = urlParams.get('audio') || '0'; // Par défaut 0 si rien n'est précisé
         const audioNum = parseInt(audioParam);
         
         const titreElement = document.getElementById('titre');
         const player = document.getElementById('player');
 
-        // Gestion du titre spécial pour l'audio 0
+        // 2. Gestion dynamique du titre (Introduction vs Jour X)
         if (audioNum === 0) {
             titreElement.innerText = "Introduction";
         } else {
             titreElement.innerText = "Jour " + audioNum;
         }
         
-        // On suppose que vos fichiers s'appellent audio0.mp4, audio1.mp4, etc.
-        // Si c'est .mp3, changez juste l'extension ci-dessous
+        // 3. Chargement du fichier depuis le dossier Audios
+        // NOTE : Vérifiez si vos fichiers sont en .mp4 ou .mp3 et ajustez l'extension ci-dessous
         player.src = "Audios/audio" + audioNum + ".mp4";
     </script>
 
