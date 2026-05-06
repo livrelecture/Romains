@@ -10,7 +10,7 @@
     <link>https://apostolique.net</link>
     <language>fr</language>
     <itunes:author>Livre Lecture</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/livrelecture/Romains/main/cover.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/livrelecture/Romains/main/cover.png" />
     <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Christianity"/>
     </itunes:category>
