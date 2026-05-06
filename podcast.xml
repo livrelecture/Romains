@@ -16,544 +16,494 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Épisode d'Introduction -->
+    <item>
+        <title>Introduction</title>
+        <description>Introduction au parcours des 60 jours dans les Romains.</description>
+        <pubDate>Sun, 31 Dec 2023 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio0.mp4" length="0" type="video/mp4" />
+        <guid isPermaLink="false">romains-intro</guid>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
         <title>Jour 1</title>
         <description>Lecture et méditation - Jour 1</description>
-        <pubDate>Tue, 02 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio1.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 01 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio1.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-1</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 2</title>
         <description>Lecture et méditation - Jour 2</description>
-        <pubDate>Wed, 03 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio2.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 02 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio2.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-2</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 3</title>
         <description>Lecture et méditation - Jour 3</description>
-        <pubDate>Thu, 04 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio3.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 03 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio3.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-3</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 4</title>
         <description>Lecture et méditation - Jour 4</description>
-        <pubDate>Fri, 05 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio4.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 04 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio4.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-4</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 5</title>
         <description>Lecture et méditation - Jour 5</description>
-        <pubDate>Sat, 06 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio5.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 05 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio5.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-5</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 6</title>
         <description>Lecture et méditation - Jour 6</description>
-        <pubDate>Sun, 07 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio6.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 06 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio6.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-6</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 7</title>
         <description>Lecture et méditation - Jour 7</description>
-        <pubDate>Mon, 08 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio7.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 07 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio7.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-7</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 8</title>
         <description>Lecture et méditation - Jour 8</description>
-        <pubDate>Tue, 09 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio8.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 08 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio8.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-8</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 9</title>
         <description>Lecture et méditation - Jour 9</description>
-        <pubDate>Wed, 10 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio9.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 09 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio9.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-9</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 10</title>
         <description>Lecture et méditation - Jour 10</description>
-        <pubDate>Thu, 11 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio10.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 10 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio10.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-10</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 11</title>
         <description>Lecture et méditation - Jour 11</description>
-        <pubDate>Fri, 12 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio11.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 11 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio11.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-11</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 12</title>
         <description>Lecture et méditation - Jour 12</description>
-        <pubDate>Sat, 13 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio12.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 12 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio12.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-12</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 13</title>
         <description>Lecture et méditation - Jour 13</description>
-        <pubDate>Sun, 14 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio13.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 13 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio13.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-13</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 14</title>
         <description>Lecture et méditation - Jour 14</description>
-        <pubDate>Mon, 15 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio14.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 14 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio14.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-14</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 15</title>
         <description>Lecture et méditation - Jour 15</description>
-        <pubDate>Tue, 16 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio15.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 15 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio15.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-15</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 16</title>
         <description>Lecture et méditation - Jour 16</description>
-        <pubDate>Wed, 17 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio16.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 16 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio16.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-16</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 17</title>
         <description>Lecture et méditation - Jour 17</description>
-        <pubDate>Thu, 18 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio17.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 17 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio17.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-17</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 18</title>
         <description>Lecture et méditation - Jour 18</description>
-        <pubDate>Fri, 19 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio18.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 18 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio18.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-18</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 19</title>
         <description>Lecture et méditation - Jour 19</description>
-        <pubDate>Sat, 20 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio19.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 19 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio19.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-19</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 20</title>
         <description>Lecture et méditation - Jour 20</description>
-        <pubDate>Sun, 21 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio20.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 20 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio20.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-20</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 21</title>
         <description>Lecture et méditation - Jour 21</description>
-        <pubDate>Mon, 22 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio21.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 21 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio21.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-21</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 22</title>
         <description>Lecture et méditation - Jour 22</description>
-        <pubDate>Tue, 23 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio22.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 22 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio22.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-22</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 23</title>
         <description>Lecture et méditation - Jour 23</description>
-        <pubDate>Wed, 24 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio23.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 23 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio23.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-23</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 24</title>
         <description>Lecture et méditation - Jour 24</description>
-        <pubDate>Thu, 25 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio24.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 24 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio24.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-24</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 25</title>
         <description>Lecture et méditation - Jour 25</description>
-        <pubDate>Fri, 26 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio25.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 25 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio25.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-25</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 26</title>
         <description>Lecture et méditation - Jour 26</description>
-        <pubDate>Sat, 27 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio26.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 26 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio26.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-26</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 27</title>
         <description>Lecture et méditation - Jour 27</description>
-        <pubDate>Sun, 28 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio27.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 27 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio27.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-27</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 28</title>
         <description>Lecture et méditation - Jour 28</description>
-        <pubDate>Mon, 29 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio28.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 28 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio28.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-28</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 29</title>
         <description>Lecture et méditation - Jour 29</description>
-        <pubDate>Tue, 30 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio29.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 29 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio29.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-29</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 30</title>
         <description>Lecture et méditation - Jour 30</description>
-        <pubDate>Wed, 31 Jan 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio30.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 30 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio30.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-30</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 31</title>
         <description>Lecture et méditation - Jour 31</description>
-        <pubDate>Thu, 01 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio31.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 31 Jan 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio31.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-31</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 32</title>
         <description>Lecture et méditation - Jour 32</description>
-        <pubDate>Fri, 02 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio32.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 01 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio32.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-32</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 33</title>
         <description>Lecture et méditation - Jour 33</description>
-        <pubDate>Sat, 03 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio33.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 02 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio33.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-33</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 34</title>
         <description>Lecture et méditation - Jour 34</description>
-        <pubDate>Sun, 04 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio34.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 03 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio34.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-34</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 35</title>
         <description>Lecture et méditation - Jour 35</description>
-        <pubDate>Mon, 05 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio35.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 04 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio35.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-35</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 36</title>
         <description>Lecture et méditation - Jour 36</description>
-        <pubDate>Tue, 06 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio36.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 05 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio36.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-36</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 37</title>
         <description>Lecture et méditation - Jour 37</description>
-        <pubDate>Wed, 07 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio37.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 06 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio37.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-37</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 38</title>
         <description>Lecture et méditation - Jour 38</description>
-        <pubDate>Thu, 08 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio38.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 07 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio38.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-38</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 39</title>
         <description>Lecture et méditation - Jour 39</description>
-        <pubDate>Fri, 09 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio39.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 08 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio39.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-39</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 40</title>
         <description>Lecture et méditation - Jour 40</description>
-        <pubDate>Sat, 10 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio40.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 09 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio40.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-40</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 41</title>
         <description>Lecture et méditation - Jour 41</description>
-        <pubDate>Sun, 11 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio41.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 10 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio41.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-41</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 42</title>
         <description>Lecture et méditation - Jour 42</description>
-        <pubDate>Mon, 12 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio42.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 11 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio42.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-42</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 43</title>
         <description>Lecture et méditation - Jour 43</description>
-        <pubDate>Tue, 13 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio43.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 12 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio43.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-43</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 44</title>
         <description>Lecture et méditation - Jour 44</description>
-        <pubDate>Wed, 14 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio44.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 13 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio44.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-44</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 45</title>
         <description>Lecture et méditation - Jour 45</description>
-        <pubDate>Thu, 15 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio45.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 14 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio45.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-45</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 46</title>
         <description>Lecture et méditation - Jour 46</description>
-        <pubDate>Fri, 16 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio46.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 15 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio46.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-46</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 47</title>
         <description>Lecture et méditation - Jour 47</description>
-        <pubDate>Sat, 17 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio47.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 16 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio47.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-47</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 48</title>
         <description>Lecture et méditation - Jour 48</description>
-        <pubDate>Sun, 18 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio48.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 17 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio48.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-48</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 49</title>
         <description>Lecture et méditation - Jour 49</description>
-        <pubDate>Mon, 19 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio49.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 18 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio49.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-49</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 50</title>
         <description>Lecture et méditation - Jour 50</description>
-        <pubDate>Tue, 20 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio50.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 19 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio50.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-50</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 51</title>
         <description>Lecture et méditation - Jour 51</description>
-        <pubDate>Wed, 21 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio51.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 20 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio51.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-51</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 52</title>
         <description>Lecture et méditation - Jour 52</description>
-        <pubDate>Thu, 22 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio52.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 21 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio52.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-52</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 53</title>
         <description>Lecture et méditation - Jour 53</description>
-        <pubDate>Fri, 23 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio53.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 22 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio53.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-53</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 54</title>
         <description>Lecture et méditation - Jour 54</description>
-        <pubDate>Sat, 24 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio54.mp4" length="0" type="video/mp4" />
+        <pubDate>Fri, 23 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio54.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-54</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 55</title>
         <description>Lecture et méditation - Jour 55</description>
-        <pubDate>Sun, 25 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio55.mp4" length="0" type="video/mp4" />
+        <pubDate>Sat, 24 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio55.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-55</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 56</title>
         <description>Lecture et méditation - Jour 56</description>
-        <pubDate>Mon, 26 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio56.mp4" length="0" type="video/mp4" />
+        <pubDate>Sun, 25 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio56.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-56</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 57</title>
         <description>Lecture et méditation - Jour 57</description>
-        <pubDate>Tue, 27 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio57.mp4" length="0" type="video/mp4" />
+        <pubDate>Mon, 26 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio57.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-57</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 58</title>
         <description>Lecture et méditation - Jour 58</description>
-        <pubDate>Wed, 28 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio58.mp4" length="0" type="video/mp4" />
+        <pubDate>Tue, 27 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio58.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-58</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 59</title>
         <description>Lecture et méditation - Jour 59</description>
-        <pubDate>Thu, 29 Feb 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio59.mp4" length="0" type="video/mp4" />
+        <pubDate>Wed, 28 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio59.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-59</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
         <title>Jour 60</title>
         <description>Lecture et méditation - Jour 60</description>
-        <pubDate>Fri, 01 Mar 2024 06:00:00 +0000</pubDate>
-        <enclosure url="https://op3.dev/e/https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio60.mp4" length="0" type="video/mp4" />
+        <pubDate>Thu, 29 Feb 2024 06:00:00 +0000</pubDate>
+        <enclosure url="https://op3.dev/e/raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio60.mp4" length="0" type="video/mp4" />
         <guid isPermaLink="false">romains-jour-60</guid>
-        <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
