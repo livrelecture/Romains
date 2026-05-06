@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Calme avec Dieu dans l'épître aux Romains</title>
+    <link>https://apostolique.net/calme-avec-dieu-dans-lepitre-aux-romains</link>
+    <language>fr-fr</language>
+    <itunes:author>Ton Nom ou Organisation</itunes:author>
+    <description>Une lecture quotidienne de l'épître aux Romains pour trouver le calme en Dieu.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="Lien_Vers_Une_Image_Carree_3000x3000px.jpg"/>
+
+    <!-- Début de l'épisode : Jour 1 -->
+    <item>
+      <title>Jour 1</title>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio1.mp4" length="0" type="video/mp4"/>
+      <guid isPermaLink="false">romains-jour-1</guid>
+      <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- Début de l'épisode : Jour 2 -->
+    <item>
+      <title>Jour 2</title>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://raw.githubusercontent.com/livrelecture/Romains/main/Audios/audio2.mp4" length="0" type="video/mp4"/>
+      <guid isPermaLink="false">romains-jour-2</guid>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Répète le bloc <item> jusqu'au Jour 60 -->
+
+  </channel>
+</rss>
